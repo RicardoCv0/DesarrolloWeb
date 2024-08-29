@@ -10,3 +10,4 @@
   <li>Kuh Esquivel Muro Arif </li>
 </ul>
 
+<img src="/Images/Foto_Mauro.jpg" width="120"/>
